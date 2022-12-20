@@ -1,6 +1,6 @@
 # Zookeeper
 
-##Description
+## Description
 The zookeeper game is a Java program that allows a zookeeper to look at the animals in a virtual 
 zoo. The zookeeper would enter the corresponding habitat number to look at the animals.
 
